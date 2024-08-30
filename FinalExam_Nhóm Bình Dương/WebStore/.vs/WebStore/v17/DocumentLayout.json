@@ -1,0 +1,610 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\shared\\_managerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\shared\\_managerlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|c:\\users\\lenovo yoga\\source\\repos\\webstore\\webstore\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\shared\\_loginlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\manager\\managerbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\manager\\managerbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|c:\\users\\lenovo yoga\\source\\repos\\webstore\\webstore\\views\\manager\\manageraccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\manager\\manageraccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|c:\\users\\lenovo yoga\\source\\repos\\webstore\\webstore\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\book\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\book\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\book\\booktype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\book\\booktype.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\manager\\managerorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\manager\\managerorder.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\models\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\order\\orderslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\order\\orderslist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\repositories\\orderitemres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\repositories\\orderitemres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\repositories\\ordersres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\repositories\\ordersres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\repositories\\booktyperes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\repositories\\booktyperes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\order\\cart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\order\\checkout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\controllers\\managercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\manager\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\manager\\createbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\manager\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\manager\\deleteaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\manager\\deleteaccount.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\account\\signup.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\manager\\detailsbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\manager\\detailsbook.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\repositories\\accountres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\repositories\\accountres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\repositories\\bookres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\repositories\\bookres.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\webstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8C60009-B2A7-4947-91BD-4724D5064CB6}|WebStore\\WedStore.csproj|solutionrelative:webstore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\ManagerBook.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Manager\\ManagerBook.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\ManagerBook.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Manager\\ManagerBook.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:41:45.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAACoAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:50:05.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LoginLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Shared\\_LoginLayout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\_LoginLayout.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Shared\\_LoginLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T01:56:16.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_ManagerLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\_ManagerLayout.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Shared\\_ManagerLayout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\_ManagerLayout.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Shared\\_ManagerLayout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACUAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:50:54.273Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ManagerAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\ManagerAccount.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Manager\\ManagerAccount.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\ManagerAccount.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Manager\\ManagerAccount.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T01:54:28.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Book\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Book\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Book\\Index.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Book\\Index.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:10:29.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Book\\Details.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Book\\Details.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Book\\Details.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Book\\Details.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T17:22:29.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookType.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Book\\BookType.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Book\\BookType.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Book\\BookType.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Book\\BookType.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAB0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T16:21:45.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ManagerOrder.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\ManagerOrder.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Manager\\ManagerOrder.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\ManagerOrder.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Manager\\ManagerOrder.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAgAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:58:55.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:50:08.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\OrderController.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAuwG4AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T16:34:33.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Models\\Orders.cs",
+              "RelativeDocumentMoniker": "WebStore\\Models\\Orders.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Models\\Orders.cs",
+              "RelativeToolTip": "WebStore\\Models\\Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:34:31.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Startup.cs",
+              "RelativeDocumentMoniker": "WebStore\\Startup.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Startup.cs",
+              "RelativeToolTip": "WebStore\\Startup.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T18:09:24.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACkAAAAAAAAAAAAgwCsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:15:45.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "OrdersList.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Order\\OrdersList.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Order\\OrdersList.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Order\\OrdersList.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Order\\OrdersList.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T13:54:22.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrdersRes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\OrdersRes.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repositories\\OrdersRes.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\OrdersRes.cs",
+              "RelativeToolTip": "WebStore\\Repositories\\OrdersRes.cs",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAswOgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:49:54.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "OrderItemRes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\OrderItemRes.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repositories\\OrderItemRes.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\OrderItemRes.cs",
+              "RelativeToolTip": "WebStore\\Repositories\\OrderItemRes.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAiwCkBAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:56:53.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookTypeRes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\BookTypeRes.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repositories\\BookTypeRes.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\BookTypeRes.cs",
+              "RelativeToolTip": "WebStore\\Repositories\\BookTypeRes.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAQwAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T11:04:37.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cart.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Order\\Cart.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Order\\Cart.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Order\\Cart.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Order\\Cart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-28T04:03:05.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Checkout.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Order\\Checkout.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Order\\Checkout.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Order\\Checkout.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Order\\Checkout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:48:58.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ManagerController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\ManagerController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\ManagerController.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\ManagerController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\ManagerController.cs",
+              "ViewState": "AQIAAMIBAAAAAAAAAAAmwFoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:55:07.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CreateBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\CreateBook.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Manager\\CreateBook.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\CreateBook.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Manager\\CreateBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:44:33.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Manager\\Index.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\Index.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Manager\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:11:37.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "DeleteAccount.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\DeleteAccount.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Manager\\DeleteAccount.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\DeleteAccount.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Manager\\DeleteAccount.cshtml",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:39:31.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T15:17:49.709Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SignUp.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Account\\SignUp.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Account\\SignUp.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Account\\SignUp.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Account\\SignUp.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T12:01:45.598Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAJcAAAAAAAAAAAAAAK4AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:12:18.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AccountRes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\AccountRes.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repositories\\AccountRes.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\AccountRes.cs",
+              "RelativeToolTip": "WebStore\\Repositories\\AccountRes.cs",
+              "ViewState": "AQIAAOUAAAAAAAAAAAAqwCUBAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T13:45:47.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "DetailsBook.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\DetailsBook.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Manager\\DetailsBook.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Manager\\DetailsBook.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Manager\\DetailsBook.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T14:11:14.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Home\\About.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:08:44.936Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "WebStore\\Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Controllers\\BookController.cs",
+              "RelativeToolTip": "WebStore\\Controllers\\BookController.cs",
+              "ViewState": "AQIAAJgAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T12:05:53.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BookRes.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\BookRes.cs",
+              "RelativeDocumentMoniker": "WebStore\\Repositories\\BookRes.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Repositories\\BookRes.cs",
+              "RelativeToolTip": "WebStore\\Repositories\\BookRes.cs",
+              "ViewState": "AQIAAFEBAAAAAAAAAADwvxUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T06:34:44.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:51:57.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "WebStore\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "WebStore\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T11:11:22.488Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Program.cs",
+              "RelativeDocumentMoniker": "WebStore\\Program.cs",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\Program.cs",
+              "RelativeToolTip": "WebStore\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T03:54:18.258Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\appsettings.json",
+              "RelativeDocumentMoniker": "WebStore\\appsettings.json",
+              "ToolTip": "C:\\Users\\LENOVO YOGA\\source\\repos\\WebStore\\WebStore\\appsettings.json",
+              "RelativeToolTip": "WebStore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-29T10:14:49.282Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

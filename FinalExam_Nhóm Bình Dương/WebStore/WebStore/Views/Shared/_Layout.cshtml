@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Book Online Store</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/main.css" />
+    @*<link rel="stylesheet" href="~/css/site.css" />*@
+
+    <noscript><link rel="stylesheet" href="~/css/noscript.css" /></noscript>
+
+</head>
+<body class="is-preload">
+    <div id="wrapper">
+        <header id="header">
+            <div class="inner">
+
+                <!-- Logo -->
+                <a href="@Url.Action("Index", "Home")" class="logo">
+                    <span class="fa fa-book"></span> 
+                    <span class="title">Book Online Store Website</span>
+                </a>
+                <form method="get" action="@Url.Action("Details", "Book")" class="form-inline" style="align-content:center">
+                    <label for="search" class="mr-2">Tìm kiếm:</label>
+                    <input type="text" name="search" id="search" class="form-control mr-2 custom-search-input" placeholder="Nhập tên sách cần tìm...">
+                        <button type="submit" class="fa fa-search" style='font-size:10px'></button>
+				</form>
+                <!-- Nav -->
+                <nav>
+                    <ul>
+                        <li><a href="#menu">Menu</a></li>
+                    </ul>
+                </nav>
+
+            </div>
+        </header>
+        <!-- Menu -->
+        <nav id="menu">
+            <h2>Menu</h2>
+            <h4>@User.Identity.Name</h4>
+            <ul>
+                <li><a href="@Url.Action("Index", "Home")">Home</a></li>
+                @if (this.User.IsInRole("Admin") || this.User.IsInRole("SuperAdmin"))
+                {
+                    <li><a href="@Url.Action("Index", "Manager")">Manager</a></li>
+
+                }
+
+                @if (User.Identity.Name != null)
+                {
+                    <li><a href="@Url.Action("Cart", "Order")">Giỏ hàng</a></li>
+                    <li><a href="@Url.Action("OrdersList", "Order")">Đơn hàng</a></li>
+                    <li><a href="@Url.Action("Logout", "Account")">Logout</a></li>
+
+                }
+                else
+                {
+                    <li><a href="@Url.Action("Login", "Account")">Đăng nhập</a></li>
+                }
+
+            </ul>
+        </nav>
+        <div class="container">
+            <div>
+
+            </div>
+            <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Index", "Home")">Home</a>
+                </li>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="@Url.Action("Index", "Book")" role="button" aria-haspopup="true" aria-expanded="false">Book</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="@Url.Action("Index", "Book")">Tất cả</a>
+                        @foreach (var item in Model.booktypeNAV)
+                        {
+                            <a class="dropdown-item" href="@Url.Action("BookType", "Book",new { ID = item.BookTypeID })">@item.BookTypeName</a>
+                        }
+                    </div>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("About", "Home")">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="@Url.Action("Contact", "Home")">Contact</a>
+                </li>
+            </ul>
+        </div>
+
+        <div class="container">
+            <main role="main" class="pb-3">
+                @RenderBody()
+            </main>
+        </div>
+
+
+        <footer id="footer">
+            <div class="inner">
+                <ul class="copyright">
+                    <li>Copyright © 2024 Book Online Store </li>
+                    <li>Template by: BookOnline.com</li>
+                </ul>
+            </div>
+        </footer>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script src="~/js/jquery.scrolly.min.js"></script>
+    <script src="~/js/jquery.scrollex.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    <script src="~/js/main.js" asp-append-version="true"></script>
+    @RenderSection("Scripts", required: false)
+</body>
+</html>
